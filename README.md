@@ -10,6 +10,4 @@ May 7 - Movement demo
 ![IMG 4513-min](https://github.com/user-attachments/assets/927c2410-cb6f-405c-99af-6e13e83fa028)
 
 May 14 - More parts assembled + motors wired up
-[IMG_4597-compressed.pdf](https://github.com/user-attachments/files/20220176/IMG_4597-compressed.pdf)
-
-
+![IMG_4597-min](https://github.com/user-attachments/assets/5c4f3816-52d3-497a-8946-e65cb41d9147)
